@@ -1,7 +1,7 @@
 
 # Kickstarter Data Importer
 
-The Kickstarter Data Importer, a crucial component of our project, is responsible for importing monthly scraped data from Kickstarter, which is readily available from Webrobots (here): [https://webrobots.io/kickstarter-datasets/]. I have personally utilized this method for my job market paper, underscoring its significance in our collective work.
+The Kickstarter Data Importer, a crucial component of our project, is responsible for importing monthly scraped data from Kickstarter, which is readily available from Webrobots [here](https://webrobots.io/kickstarter-datasets/). I have personally utilized this method for my job market paper, underscoring its significance in our collective work.
 
 The general steps for the code are:
 1. Import the first available data for each year into a PySpark session, performing data validity checks.
